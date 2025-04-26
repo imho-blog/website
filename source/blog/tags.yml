@@ -1,19 +1,44 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+rant:
+  label: rant
+  permalink: /rant
+  description: Something Bad
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+praise:
+  label: praise
+  permalink: /praise
+  description: Something Good
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
+polar:
+  label: polar
+  permalink: /polar
+  description: Political
 
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+funny:
+  label: funny
+  permalink: /funny
+  description: Funny
+
+experience:
+  label: experience
+  permalink: /experience
+  description: personal experience
+
+tech:
+  label: tech
+  permalink: /tech
+  description: Related to a technology or object.
+
+food:
+  label: food
+  permalink: /food
+  description: Related to food, drink, and service.
+
+person:
+  label: person
+  permalink: /person
+  description: Related to a person or people.
+
+org:
+  label: org
+  permalink: /org
+  description: Related to an organization or company.
